@@ -348,3 +348,8 @@
  * Task [ChangeTypeMappingForRedshift] : Nothing to do
  * Task [AutoUpdateRelationsMigrationTask] : Nothing to do
  ---=== End of migration ===---
+ ---=== Start Migration of project BranchTest ===---
+ * Task [Update MDM View Objects] : Applied successfully
+ * Task [Update MDM Process Objects] : Applied successfully
+ * Task [Remove MDM Reference Item Name] : Nothing to do
+ * Task [Update Operator MigrationTask] : Applied successfully
